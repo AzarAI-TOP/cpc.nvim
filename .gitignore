@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Swap files
+*.swp
+
+# Backup files
+*.bak
+
+# Lua Rocks dependencies (if you're using luarocks for Lua packages)
+luarocks/
+
+# IDE settings (e.g., for VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Should not include in git
+luarc.json
