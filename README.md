@@ -2,6 +2,7 @@
 
 [![Neovim 0.7+](https://img.shields.io/badge/Neovim-0.7.0+-blue)](https://neovim.io)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <!-- [![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/cpc.nvim)](https://github.com/YOUR_USERNAME/cpc.nvim/releases) -->
 
 ## 🛠 Requirements ->
@@ -33,7 +34,7 @@
 
 ```lua
 use {
-    "your-username/cpc.nvim",
+    "AzarAI-TOP/cpc.nvim",
     config = function()
         require("cpc").setup({
             -- Optional configuration
@@ -46,7 +47,7 @@ use {
 
 ```bash
 cd ~/.local/share/nvim/site/pack/git-plugins/start
-git clone https://github.com/your-username/cpc.nvim.git
+git clone https://github.com/AzarAI-TOP/cpc.nvim.git
 ```
 
 ## 🚀 Quick Start
