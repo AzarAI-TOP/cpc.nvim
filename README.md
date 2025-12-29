@@ -185,7 +185,3 @@ local is_cn_punct = cpc.is_chinese_punctuation(",") -- true
 | `“”`                | `""`                | Double quotation mark  |
 | `‘’`                | `''`                | Single quotation mark  |
 | `￥`                | `$`                 | Dollar sign (Disabled) |
-
-```
-
-```
