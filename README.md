@@ -24,11 +24,12 @@
 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-````lua
+```lua
 {
     "AzarAI-TOP/cpc.nvim",
     opts = {}
 }
+```
 
 ### Using [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
@@ -41,7 +42,7 @@ use {
         })
     end
 }
-````
+```
 
 ### Manual Installation
 
@@ -184,3 +185,7 @@ local is_cn_punct = cpc.is_chinese_punctuation(",") -- true
 | `“”`                | `""`                | Double quotation mark  |
 | `‘’`                | `''`                | Single quotation mark  |
 | `￥`                | `$`                 | Dollar sign (Disabled) |
+
+```
+
+```
